@@ -4,7 +4,7 @@ module.exports = {
   DefaultPrefix: process.env.Prefix || "++", //Default prefix, Server Admins can change the prefix
   Port: 80, //Which port website gonna be hosted
   SupportServer: "https://discord.gg/wdyu6TmybR", //Support Server Link
-  Token: process.env.Token || "ODYzNDg0MzA3ODYzMTA5NjQy.YOnkbQ.siBeoXqXAzOCB3YyWfWm6S2XDx4", //Discord Bot Token
+  Token: process.env.Token || "OTEwMTU4MTQyNDY4NDE5NTg0.YZOw0w.ua56DY4D94ay2GxEVliAQ3bePoA", //Discord Bot Token
   ClientID: process.env.Discord_ClientID || "863484307863109642", //Discord Client ID
   ClientSecret: process.env.Discord_ClientSecret || "nO46WLCDQaRLY2RyfuIPVsxG5lg9FXiN", //Discord Client Secret
   Scopes: ["identify", "guilds", "applications.commands"], //Discord OAuth2 Scopes
@@ -28,9 +28,9 @@ module.exports = {
   //Lavalink
   Lavalink: {
     id: "Main",
-    host: "lava.link",
-    port: 80, // The port that lavalink is listening to. This must be a number!
-    pass: "youshallnotpass",
+    host: "173.249.9.178",
+    port: 5074, // The port that lavalink is listening to. This must be a number!
+    pass: "EpikHostOnTop",
     secure: false, // Set this to true if the lavalink uses SSL or you're hosting lavalink on repl.it
   },
 

@@ -28,9 +28,9 @@ module.exports = {
   //Lavalink
   Lavalink: {
     id: "Main",
-    host: "node1.cubichosting.xyz",
-    port: 2621, // The port that lavalink is listening to. This must be a number!
-    pass: "XaneAlwaysOP",
+    host: "lala.link",
+    port: 80, // The port that lavalink is listening to. This must be a number!
+    pass: "youshallnotpass",
     secure: false, // Set this to true if the lavalink uses SSL or you're hosting lavalink on repl.it
   },
 

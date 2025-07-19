@@ -40,7 +40,7 @@
     "erela.js-deezer": "^1.0.7",
     "erela.js-facebook": "^1.0.4",
     "express": "^4.17.1",
-    "express-session": "^1.17.1",
+    "express-session": "^1.18.2",
     "ffmpeg": "^0.0.4",
     "ffmpeg-static": "^4.4.0",
     "jsoning": "^0.12.0",
